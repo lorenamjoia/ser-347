@@ -1,5 +1,7 @@
 # ser-347
 Projeto da Disciplina SER-347 
+# SER-347 - Projeto Final
+
 Este repositório contém o código fonte do trabalho
 final da disciplina SER-347.
 
@@ -15,4 +17,3 @@ os códigos e dados disponibilizados neste trabalho.
 ## Referências
 
 Alguns links e textos interessantes sobre o projeto...
-E mais projetos...
