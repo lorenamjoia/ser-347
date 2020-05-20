@@ -3,7 +3,7 @@ Projeto da Disciplina SER-347
 # SER-347 - Projeto Final
 
 Este repositório contém o código fonte do trabalho
-final da disciplina SER-347 (NOVO1).
+final da disciplina SER-347 (NOVO2).
 
 ## Contexto e Objetivos
 
